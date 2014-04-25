@@ -1,0 +1,34 @@
+{
+  "name": "geo-chat-server",
+  "version": "0.0.1",
+  "description": "Node.js server with feature like exchange information about gps positon and chatting.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoman07/geo_server.git"
+  },
+  "keywords": [
+    "geo server",
+    "websocket"
+  ],
+  "author": "Roman-Barzyczak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoman07/geo_server.git/issues"
+  },
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.0.0",
+    "ws" : "0.4.x",
+    "socket.io": "~0.9.6",
+    "redis":"~0.10.1",
+    "hiredis": "~0.1.16"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
