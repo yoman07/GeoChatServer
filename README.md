@@ -1,8 +1,8 @@
-GeoChatServer
+GeoChatServer - node.js, socket.io, websockets
 =============
 
 This is experimental server for "real-time" application that sends messages back and forth, between client and the server.
-Server use redis as database and websocket as protocol. So this is really fast server.
+Server use redis as database and websocket as protocol. So this is really fast server. You can use this server for real-time chat application. 
 
 Installation & running
 -------------
