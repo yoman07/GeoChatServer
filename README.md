@@ -1,4 +1,4 @@
-GeoChatServer - node.js, socket.io, websockets
+GeoChatServer - node.js & socket.io
 =============
 
 This is experimental server for "real-time" application that sends messages back and forth, between client and the server.
